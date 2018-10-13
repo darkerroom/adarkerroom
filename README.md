@@ -1,6 +1,7 @@
 A Dark Room
 ===========
 > "awake. head throbbing. vision blurry. come light the fire."
+> "you wake up in a darker room"
 
 a minimalist text adventure game for your browser
 
