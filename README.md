@@ -1,4 +1,4 @@
-A Dark Room
+A Darker Room
 ===========
 > "awake. head throbbing. vision blurry. come light the fire.
 
